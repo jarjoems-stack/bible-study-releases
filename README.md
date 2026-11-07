@@ -1,11 +1,13 @@
 # Bible Study releases
 
-The current version is **1.1.1** (versionCode 3).
+The current version is **1.2.0** (versionCode 4).
 
 - Manifest: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/manifest.json
-- APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.1.1.apk
-- SHA-256: `ed32c944187a41cecfdcabb582c319047e405a4816cd4241dde9d595ae1730e4`
+- Current APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.2.0.apk
+- SHA-256: `70648debca02133455c00e181657055e7e83123f37616473bba51df52a038a4a`
 
-Updates now arrive inside the app.
+Book layout flows a chapter like a printed Bible, with type, spacing, and theme under Aa. The verse of the day and new installs use the ESV, and a share cites the reference only. Confessions can be added as JSON files and hidden in Settings.
 
-The phone downloads these files directly. This repository does not contain the signing keystore or the ESV API key.
+The previous APK stays at https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.1.1.apk. Only these two APKs should remain in the repository. This folder does not include the 1.1.1 file.
+
+This repository does not contain the signing keystore or the ESV API key.
