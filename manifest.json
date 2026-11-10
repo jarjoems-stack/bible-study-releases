@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.7",
-  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.7.apk",
-  "sha256": "737537f90fb28724267f6754f302513d38968eb7bef489e12d1e81f93efa98d4",
-  "notes": "Jesus' words now fully red in ESV and KJV; verse of the day briefly highlights its verse."
+  "versionCode": 13,
+  "versionName": "1.3.8",
+  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.8.apk",
+  "sha256": "a846f52e389260d8dfa959cb0749ef822d8b734436769b34b2a024ab139d9442",
+  "notes": "Jumping to a verse now lands it on screen; the Home button works after opening a passage."
 }
