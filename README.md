@@ -1,13 +1,13 @@
 # Bible Study releases
 
-The current version is **1.3.3** (versionCode 8).
+The current version is **1.3.4** (versionCode 9).
 
 - Manifest: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/manifest.json
-- Current APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.3.apk
-- SHA-256: `67adbf05943d9985e386a89fd0228b8a4fbdfa369f2b00a39ab6a8148dcf98f8`
+- Current APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.4.apk
+- SHA-256: `2c4a88c179bd008f82f5b5569a194bcef1a21755419f2996e606e0e3d798f6f2`
 
-Adds a crash report screen so problems can be fixed faster.
+Fixes the crash when opening a 1689 confession paragraph.
 
-The previous APK stays at https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.2.apk. Only these two APKs should remain in the repository. This folder does not include the 1.3.2 file.
+The previous APK stays at https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.3.apk. Only these two APKs should remain in the repository. This folder does not include the 1.3.3 file.
 
 This repository does not contain the signing keystore or the ESV API key.

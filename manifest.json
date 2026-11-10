@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.3",
-  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.3.apk",
-  "sha256": "67adbf05943d9985e386a89fd0228b8a4fbdfa369f2b00a39ab6a8148dcf98f8",
-  "notes": "Adds a crash report screen so problems can be fixed faster."
+  "versionCode": 9,
+  "versionName": "1.3.4",
+  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.4.apk",
+  "sha256": "2c4a88c179bd008f82f5b5569a194bcef1a21755419f2996e606e0e3d798f6f2",
+  "notes": "Fixes the crash when opening a 1689 confession paragraph."
 }
