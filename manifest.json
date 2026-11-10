@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.3.5",
-  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.5.apk",
-  "sha256": "71c139b83409bd7da70d6c8941a150d0cdc5ac164521e7bca0831d40defd224a",
-  "notes": "Fixes confession references not opening after going back."
+  "versionCode": 11,
+  "versionName": "1.3.6",
+  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.6.apk",
+  "sha256": "0935b56c6fc8bf15fca060f60de8bf070951f2c166574961030f0cc5be1f5acb",
+  "notes": "Fixes confession references not opening after using the go-back bar."
 }
