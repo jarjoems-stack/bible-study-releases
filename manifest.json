@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.3.6",
-  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.6.apk",
-  "sha256": "0935b56c6fc8bf15fca060f60de8bf070951f2c166574961030f0cc5be1f5acb",
-  "notes": "Fixes confession references not opening after using the go-back bar."
+  "versionCode": 12,
+  "versionName": "1.3.7",
+  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.7.apk",
+  "sha256": "737537f90fb28724267f6754f302513d38968eb7bef489e12d1e81f93efa98d4",
+  "notes": "Jesus' words now fully red in ESV and KJV; verse of the day briefly highlights its verse."
 }

@@ -1,13 +1,14 @@
-# Bible Study releases
+# Bible Study 1.3.7
 
-The current version is **1.3.6** (versionCode 11).
+The current version is **1.3.7** (versionCode 12).
 
-- Manifest: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/manifest.json
-- Current APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.6.apk
-- SHA-256: `0935b56c6fc8bf15fca060f60de8bf070951f2c166574961030f0cc5be1f5acb`
+- APK: BibleStudy-1.3.7.apk
+- Manifest: manifest.json
+- SHA-256: `737537f90fb28724267f6754f302513d38968eb7bef489e12d1e81f93efa98d4`
+- Published URL: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.7.apk
 
-Fixes confession references not opening after using the go-back bar.
+Jesus' words now fully red in ESV and KJV; verse of the day briefly highlights its verse.
 
-The previous APK stays at https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.5.apk. Only these two APKs should remain in the repository. This folder does not include the 1.3.5 file.
+Previous APK: https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.3.6.apk
 
-This repository does not contain the signing keystore or the ESV API key.
+Install this over 1.3.6. It is signed with the same household key, so notes, highlights, and reading plans stay on the phone. This folder does not contain the signing keystore or the ESV API key.
