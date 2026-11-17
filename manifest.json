@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.4.0.apk",
-  "sha256": "1de9038f03051e118c0f560a88922d8a8d33f48438f54c7c8b4cbd0664987a90",
-  "notes": "New versions: NKJV, NIV and NASB in the reader, saved on the phone for up to 30 days. Compare KJV with any version."
+  "versionCode": 16,
+  "versionName": "1.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/jarjoems-stack/bible-study-releases/main/BibleStudy-1.4.1.apk",
+  "sha256": "560ad22ae2aaeac402acc107a1e62ac08f308a7e1dd1309e3d4c9773968c7a2f",
+  "notes": "Memory verses: save verses from the reader and practise them each day."
 }
